@@ -11,7 +11,6 @@ It features a clean, modern React frontend built with Vite and styled with Tailw
 *   **100% Local & Offline**: Your sensitive CRM data never touches the internet.
 *   **Flexible Entity Management**: Add, edit, and organize your core business records (e.g., leads, contacts, customers, products, vendors, ETC).
 *   **Relationship Mapping**: Define and manage complex relationships between different types of entities.
-*   **Customizable Organization**: Organize all records with flexible tags, categories, or statuses for powerful filtering and workflow management.
 *   **Many-to-Many Support**: Full support for many-to-many relationships between different types of entities.
 *   **Modern Web UI**: A responsive and intuitive interface built with React, Vite, and Tailwind CSS.
 *   **Persistent Storage**: Uses EF Core and a local SQLite database to store all your CRM data.
